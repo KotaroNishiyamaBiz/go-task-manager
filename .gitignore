@@ -1,0 +1,7 @@
+# Intellij Project
+.idea
+.idea_modules
+atlassian-ide-plugin.xml
+
+# for Mac
+.DS_Store
