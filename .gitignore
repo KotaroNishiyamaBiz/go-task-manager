@@ -3,5 +3,9 @@
 .idea_modules
 atlassian-ide-plugin.xml
 
+vendor
+
+db/dbconf.yml
+
 # for Mac
 .DS_Store
